@@ -13,10 +13,12 @@ A simple Search Laptop app with Java
 5. Put the code in "contdb.java" is can connect database
 
 #Code:
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+ 
 package condb;
 import java.sql.*;
 
@@ -24,10 +26,12 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
+
 /**
  *
  * @author Admin
  */
+ 
 public class contdb {
 
     public static Connection getCon()
