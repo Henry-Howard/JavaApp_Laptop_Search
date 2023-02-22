@@ -12,7 +12,7 @@ A simple Search Laptop app with Java
 4. Creat connect database laptop_search.sql in Source Packages with name: "condb". At "condb" create file "contdb.java"
 5. Put the code in "contdb.java" is can connect database
 
-#Code:
+Sample Code:
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
